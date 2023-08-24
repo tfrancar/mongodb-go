@@ -1,2 +1,4 @@
 # mongodb-go
-Criado para armazenar o teste de conexão com o banco mongodb
+A storage was made for testing the connection to MongoDB database.
+
+--> A connection will be established using the available MongoDB driver in the Go programming language.
